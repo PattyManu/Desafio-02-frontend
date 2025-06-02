@@ -1,5 +1,3 @@
-![](https://i.imgur.com/xG74tOh.png)
-
 # Desafio | Front-end - Módulo 2
 
 Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
@@ -66,8 +64,6 @@ Exemplo de retorno:
 ```
 
 A estrutura HTML deverá ser a seguinte:
-![](https://i.imgur.com/s8j6m3E.png)
-
 Informações do retorno da API necessárias para o preenchimento:
 
 - background-image da `<div class="movie">` === poster_path
@@ -242,8 +238,6 @@ Exemplo de retorno:
 ```
 
 A estrutura HTML deverá ser a seguinte:
-![](https://i.imgur.com/72ixMvR.png)
-
 Informações do retorno do **Endpoint Geral** necessárias para o preenchimento:
 
 - background-image da `<div class="highlight__video">` === backdrop_path
@@ -369,8 +363,6 @@ Exemplo de retorno:
 ```
 
 A estrutura HTML deverá ser a seguinte:
-![](https://i.imgur.com/quJYytr.png)
-
 Informações do retorno da API necessárias para o preenchimento:
 
 - texto do `<h3 class="modal__title">` === title
@@ -398,16 +390,3 @@ new Date(currentDate).toLocaleDateString('pt-BR', {
 
 // RETORNO "21 de outubro de 2022"
 ```
-
-## Aulas úteis:
-
-- [Selecionando elementos mais facilmente | Modificando as propriedades dos elementos | Manipulando classes com a DOM | Evento de clique](https://aulas.cubos.academy/turma/92e271ed-f0b4-4cb5-ad9e-fa242d6615e9/aulas/30e19e23-fb34-4aa9-9e34-aed2759450b5)
-- [Evento de Tecla e objeto de eventos | Target e multiplos eventos](https://aulas.cubos.academy/turma/92e271ed-f0b4-4cb5-ad9e-fa242d6615e9/aulas/ae321cfd-356b-48c3-9918-2a397d4e23bb)
-- [Resumo position fixed | Criando um modal](https://aulas.cubos.academy/turma/92e271ed-f0b4-4cb5-ad9e-fa242d6615e9/aulas/58e18868-fbce-491d-be11-f0f0718514f4)
-- [Fetch e assincronismo | Populando a página com informações externas](https://aulas.cubos.academy/turma/92e271ed-f0b4-4cb5-ad9e-fa242d6615e9/aulas/2ffd1dbc-cb11-4d38-9c9f-ac89b9c5011d)
-- [Criando e adicionando elementos](https://aulas.cubos.academy/turma/92e271ed-f0b4-4cb5-ad9e-fa242d6615e9/aulas/bdd05567-3962-463a-a18e-00de3825f626)
-- [Variaveis CSS | Modificando as variaveis CSS pelo DOM e LocalStorage](https://aulas.cubos.academy/turma/92e271ed-f0b4-4cb5-ad9e-fa242d6615e9/aulas/b4c87994-bfd5-4f63-9046-0a04fd6daf53)
-
-**LEMBRE-SE**: Feito é melhor do que perfeito, mas não faça mal feito!!!
-
-###### tags: `front-end` `módulo 2` `HTML` `DOM` `CSS` `desafio`
