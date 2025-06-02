@@ -1,0 +1,18 @@
+{
+  "name": "desafio-2-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "serve": "^12.0.0"
+  },
+  "scripts": {
+    "cy:open": "./node_modules/.bin/cypress open",
+    "start": "serve ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
